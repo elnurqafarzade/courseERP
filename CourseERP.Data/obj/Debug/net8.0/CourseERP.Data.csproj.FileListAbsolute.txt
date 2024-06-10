@@ -1,0 +1,16 @@
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\bin\Debug\net8.0\CourseERP.Data.deps.json
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\bin\Debug\net8.0\CourseERP.Data.dll
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\bin\Debug\net8.0\CourseERP.Data.pdb
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.csproj.AssemblyReference.cache
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.sourcelink.json
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseER.0454FBA9.Up2Date
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.dll
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\refint\CourseERP.Data.dll
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\CourseERP.Data.pdb
+C:\Users\FA507XV\source\repos\CourseERP\CourseERP.Data\obj\Debug\net8.0\ref\CourseERP.Data.dll
